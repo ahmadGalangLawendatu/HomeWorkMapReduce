@@ -1,3 +1,5 @@
+#Printing out first 100 lines
+
 "Gevecht	1
 #15038]	1
 $5,000)	1
